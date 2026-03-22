@@ -25,7 +25,9 @@ A desktop app for managing academic PDF papers with hierarchical tagging, arXiv 
 
 ## Getting Started
 
-Download the latest release from the [Releases](https://github.com/initialneil/papersuitecase/releases) page.
+Download the latest release from the [Releases](https://github.com/initialneil/papersuitecase-app/releases) page.
+
+Source code: [initialneil/papersuitecase-app](https://github.com/initialneil/papersuitecase-app)
 
 **Requirements:** macOS 12+
 
