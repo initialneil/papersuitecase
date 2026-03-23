@@ -7,43 +7,26 @@
     <language>en</language>
     <item>
       <title>Version 1.1.0</title>
-      <pubDate>Sun, 23 Mar 2026 19:31:00 +0800</pubDate>
+      <pubDate>Mon, 24 Mar 2026 00:00:00 +0800</pubDate>
       <sparkle:version>2</sparkle:version>
       <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <h2>Auto-Update System</h2>
+        <h2>v1.1.0 — Auto-Update System</h2>
         <ul>
           <li>Auto-update checking via Sparkle 2</li>
           <li>Update notification badge on settings icon</li>
           <li>About section in Settings with version info</li>
           <li>PDF viewer right-click context menu</li>
+          <li>Fix Google/GitHub OAuth in release builds</li>
+          <li>DMG installer with drag-to-Applications</li>
         </ul>
       ]]></description>
       <enclosure
         url="https://github.com/initialneil/papersuitecase-app/releases/download/v1.1.0/PaperSuitecase-macOS-v1.1.0.zip"
-        length="26424846"
+        length="26426346"
         type="application/octet-stream"
-        sparkle:edSignature="Ci0j3k75QIrjamiuSMhQbC8SmUsFej4lAtQRHvi3/VctP+eD7M9nHjm7qMY6wouebdSsNRu376guYUDL6jvjBQ=="
-      />
-    </item>
-    <item>
-      <title>Version 1.1.1</title>
-      <pubDate>Sun, 23 Mar 2026 19:45:00 +0800</pubDate>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[
-        <h2>v1.1.1</h2>
-        <ul>
-          <li>DMG installer with drag-to-Applications layout</li>
-        </ul>
-      ]]></description>
-      <enclosure
-        url="https://github.com/initialneil/papersuitecase-app/releases/download/v1.1.1/PaperSuitecase-macOS-v1.1.1.zip"
-        length="26424848"
-        type="application/octet-stream"
-        sparkle:edSignature="xwU6UDbwOMus2vP13s6CeSxa/dug0/gl9mXmsHKlxgA/Oc49X+A9QnMB4Q7U3B9emodXpTlgLgTVVEIjxkLJBw=="
+        sparkle:edSignature="s5EzAwR7biua9VhSa2s0GZ11h9Eji7SfVvI1Fia4wYtzLCSL0o039FTnxw9w8BzdCxVe3+SHeim14tBJRTXaBg=="
       />
     </item>
   </channel>
