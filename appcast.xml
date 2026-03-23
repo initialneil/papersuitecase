@@ -5,5 +5,27 @@
     <link>https://initialneil.github.io/papersuitecase/appcast.xml</link>
     <description>Paper Suitecase release feed</description>
     <language>en</language>
+    <item>
+      <title>Version 1.1.0</title>
+      <pubDate>Sun, 23 Mar 2026 19:31:00 +0800</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>Auto-Update System</h2>
+        <ul>
+          <li>Auto-update checking via Sparkle 2</li>
+          <li>Update notification badge on settings icon</li>
+          <li>About section in Settings with version info</li>
+          <li>PDF viewer right-click context menu</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/initialneil/papersuitecase-app/releases/download/v1.1.0/PaperSuitecase-macOS-v1.1.0.zip"
+        length="26424846"
+        type="application/octet-stream"
+        sparkle:edSignature="Ci0j3k75QIrjamiuSMhQbC8SmUsFej4lAtQRHvi3/VctP+eD7M9nHjm7qMY6wouebdSsNRu376guYUDL6jvjBQ=="
+      />
+    </item>
   </channel>
 </rss>
